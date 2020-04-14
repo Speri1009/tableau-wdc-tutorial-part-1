@@ -1,0 +1,13 @@
+{
+  "name": "project.json",
+  "version": "Lets begin",
+  "description": "Playing around with webconnector",
+  "main": "One",
+  "repository": "Hello",
+  "author": "Pavani",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
